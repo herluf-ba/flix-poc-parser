@@ -1,3 +1,11 @@
+.DS_Store
+
+# sbt
+.bsp
+project/project/
+project/target/
+target/
+
 *.class
 *.log
 
